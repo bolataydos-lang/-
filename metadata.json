@@ -1,0 +1,6 @@
+{
+  "name": "Күл де, үйрен!",
+  "description": "5 жастағы балаларға арналған қазақ тіліндегі интерактивті оқу ойыны — күлкілі көріністер арқылы сауат ашу, тіл дамыту, қоршаған орта, математика және жаратылыстану.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
